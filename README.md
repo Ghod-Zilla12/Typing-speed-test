@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Typing Speed Test Interface](Screenshot.png)
+![](Screenshot.png)
 
 ### Links
 
