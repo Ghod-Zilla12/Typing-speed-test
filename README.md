@@ -29,12 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Typing Speed Test Interface](./Screenshot.png)
+![Typing Speed Test Interface](Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add your solution URL here](https://github.com/Ghod-Zilla12/Typing-speed-test)
-- Live Site URL: [Add your live site URL here](https://ghod-zilla12.github.io/Typing-speed-test/)
+- Solution URL: [Tap here to access my solution site](https://github.com/Ghod-Zilla12/Typing-speed-test)
+- Live Site URL: [Tap here to access my live site](https://ghod-zilla12.github.io/Typing-speed-test/)
 
 ## My process
 
